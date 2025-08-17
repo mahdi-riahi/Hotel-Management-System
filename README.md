@@ -13,7 +13,7 @@ A complete hotel management system implenting:
 - Choose among hotels
 
 ### Description
-- Required classes are defined in 'Guest.py','Room.py','Booking.py','Hotel.py'
+- Required classes are defined in 'Guest.py' , 'Room.py' , 'Booking.py' , 'Hotel.py'
 - CLI interface and using classes are written in 'Main.py'
 - Saving and loading data with pandas are in 'Save_Load.py'
 
